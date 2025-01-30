@@ -326,11 +326,6 @@ export default class PreviewPage extends React.Component {
             disableFilename,
         } = this.state
 
-        return (
-            <div>
-                <h1>Hello World</h1>
-            </div>
-        )
 
         return (
             <React.Fragment>
